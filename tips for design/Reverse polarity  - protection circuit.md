@@ -1,5 +1,4 @@
-## Circuito de proteccion de conexion poaridad inversa
-# 
+## Reverse polarity connection protection circuit
 
 Let's say you have a 12 volt power source like a battery and you want to power something.
 

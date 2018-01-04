@@ -1,2 +1,2 @@
 # electronics-tips
-Apuntes y notas de diseño de hardware electronico
+Tips and design notes for electronic hardware
